@@ -1,0 +1,1715 @@
+.wynajem {
+    background-color: #f7f7f7;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .wynajem .div {
+    background-color: #f7f7f7;
+    overflow: hidden;
+    width: 1920px;
+    height: 1087px;
+    position: relative;
+  }
+  
+  .wynajem .client-brand-profile {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 1868px;
+    left: 1032px;
+    background-image: url(./img/image.svg);
+    background-size: 100% 100%;
+  }
+  
+  .wynajem .client-brand-profile-2 {
+    top: 2036px;
+    left: 1032px;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    background-image: url(./img/mdi-arrow-drop-down-2.svg);
+    background-size: 100% 100%;
+  }
+  
+  .wynajem .client-brand-profile-3 {
+    top: 2204px;
+    left: 1024px;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    background-image: url(./img/mdi-arrow-drop-down.svg);
+    background-size: 100% 100%;
+  }
+  
+  .wynajem .overlap {
+    position: absolute;
+    width: 1920px;
+    height: 1087px;
+    top: 0;
+    left: 0;
+  }
+  
+  .wynajem .overlap-group {
+    position: absolute;
+    width: 1920px;
+    height: 1064px;
+    top: 0;
+    left: 0;
+  }
+  
+  .wynajem .overlap-2 {
+    position: absolute;
+    width: 1619px;
+    height: 100px;
+    top: 0;
+    left: 301px;
+    background-color: #ffffff;
+  }
+  
+  .wynajem .available {
+    position: absolute;
+    width: 196px;
+    height: 48px;
+    top: 26px;
+    left: 690px;
+  }
+  
+  .wynajem .text-wrapper {
+    position: absolute;
+    top: 10px;
+    left: 0;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: var(--x-41-3c-3b);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+  }
+  
+  .wynajem .on {
+    position: absolute;
+    width: 94px;
+    height: 48px;
+    top: 0;
+    left: 100px;
+  }
+  
+  .wynajem .group {
+    height: 48px;
+    background-color: #fe84000d;
+    border-radius: 50px;
+  }
+  
+  .wynajem .group-2 {
+    position: relative;
+    width: 75px;
+    height: 34px;
+    top: 7px;
+    left: 14px;
+  }
+  
+  .wynajem .text-wrapper-2 {
+    position: absolute;
+    top: 5px;
+    left: 49px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: var(--x-41-3c-3b);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .wynajem .rectangle {
+    position: absolute;
+    width: 34px;
+    height: 34px;
+    top: 0;
+    left: 0;
+    background-color: var(--fe-8400);
+    border-radius: 50px;
+  }
+  
+  .wynajem .overlap-group-wrapper {
+    position: absolute;
+    width: 351px;
+    height: 60px;
+    top: 20px;
+    left: 908px;
+  }
+  
+  .wynajem .overlap-group-2 {
+    position: relative;
+    width: 349px;
+    height: 60px;
+    background-color: #f4f4f4;
+    border-radius: 16px;
+    border: 2px solid;
+    border-color: #ffffff;
+  }
+  
+  .wynajem .iconly-light-search {
+    top: 16px;
+    left: 18px;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .wynajem .text-wrapper-3 {
+    position: absolute;
+    top: 16px;
+    left: 56px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: var(--x-898989);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .wynajem .group-3 {
+    position: absolute;
+    width: 266px;
+    height: 60px;
+    top: 20px;
+    left: 1322px;
+  }
+  
+  .wynajem .group-4 {
+    position: absolute;
+    width: 204px;
+    height: 60px;
+    top: 0;
+    left: 64px;
+  }
+  
+  .wynajem .text-wrapper-4 {
+    position: absolute;
+    top: 19px;
+    left: 76px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 600;
+    color: var(--x-141414);
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .wynajem .ellipse {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .wynajem .overlap-wrapper {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    top: 6px;
+    left: 0;
+  }
+  
+  .wynajem .icon-wrapper {
+    width: 49px;
+    height: 49px;
+    background-image: url(https://c.animaapp.com/OU2VaB8o/img/vector.svg);
+    background-size: 100% 100%;
+  }
+  
+  .wynajem .icon {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    top: 12px;
+    left: 12px;
+  }
+  
+  .wynajem .div-wrapper {
+    position: relative;
+    width: 13px;
+    height: 20px;
+    top: 2px;
+    left: 6px;
+  }
+  
+  .wynajem .overlap-group-3 {
+    position: relative;
+    height: 20px;
+  }
+  
+  .wynajem .group-5 {
+    position: absolute;
+    width: 13px;
+    height: 8px;
+    top: 9px;
+    left: 0;
+    background-image: url(https://c.animaapp.com/OU2VaB8o/img/group@2x.png);
+    background-size: 100% 100%;
+  }
+  
+  .wynajem .group-6 {
+    position: absolute;
+    width: 7px;
+    height: 13px;
+    top: 0;
+    left: 3px;
+    background-image: url(https://c.animaapp.com/OU2VaB8o/img/group-1@2x.png);
+    background-size: 100% 100%;
+  }
+  
+  .wynajem .group-7 {
+    position: absolute;
+    width: 2px;
+    height: 5px;
+    top: 15px;
+    left: 6px;
+    background-image: url(https://c.animaapp.com/OU2VaB8o/img/group-2@2x.png);
+    background-size: 100% 100%;
+  }
+  
+  .wynajem .overlap-3 {
+    position: absolute;
+    width: 302px;
+    height: 1064px;
+    top: 0;
+    left: 0;
+  }
+  
+  .wynajem .bg {
+    position: absolute;
+    width: 299px;
+    height: 1064px;
+    top: 0;
+    left: 0;
+  }
+  
+  .wynajem .bg-2 {
+    position: absolute;
+    width: 280px;
+    height: 60px;
+    top: 321px;
+    left: 19px;
+    background-color: #fff8f2;
+    border-radius: 40px 0px 0px 40px;
+  }
+  
+  .wynajem .group-8 {
+    position: absolute;
+    width: 142px;
+    height: 24px;
+    top: 992px;
+    left: 40px;
+  }
+  
+  .wynajem .text-wrapper-5 {
+    position: absolute;
+    top: 2px;
+    left: 38px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: var(--x-141414);
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .wynajem .img {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 0;
+    left: 0;
+  }
+  
+  .wynajem .logo {
+    position: absolute;
+    top: 29px;
+    left: 81px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 700;
+    color: var(--fe-8400);
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .wynajem .group-9 {
+    position: absolute;
+    width: 123px;
+    height: 24px;
+    top: 277px;
+    left: 40px;
+  }
+  
+  .wynajem .group-10 {
+    position: absolute;
+    width: 126px;
+    height: 24px;
+    top: 337px;
+    left: 40px;
+  }
+  
+  .wynajem .text-wrapper-6 {
+    position: absolute;
+    top: 2px;
+    left: 38px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #fe8400;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .wynajem .group-11 {
+    position: absolute;
+    width: 197px;
+    height: 24px;
+    top: 217px;
+    left: 40px;
+  }
+  
+  .wynajem .group-12 {
+    position: absolute;
+    width: 256px;
+    height: 40px;
+    top: 152px;
+    left: 40px;
+  }
+  
+  .wynajem .outline-essentional {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 8px;
+    left: 0;
+  }
+  
+  .wynajem .group-13 {
+    position: absolute;
+    width: 71px;
+    height: 20px;
+    top: 10px;
+    left: 38px;
+  }
+  
+  .wynajem .text-wrapper-7 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .wynajem .line {
+    position: absolute;
+    width: 4px;
+    height: 40px;
+    top: 0;
+    left: 256px;
+  }
+  
+  .wynajem .group-14 {
+    position: absolute;
+    width: 139px;
+    height: 24px;
+    top: 386px;
+    left: 41px;
+  }
+  
+  .wynajem .vector {
+    position: absolute;
+    width: 3px;
+    height: 4px;
+    top: 164px;
+    left: 296px;
+  }
+  
+  .wynajem .vector-2 {
+    position: absolute;
+    width: 6px;
+    height: 20px;
+    top: 151px;
+    left: 295px;
+  }
+  
+  .wynajem .vector-3 {
+    position: absolute;
+    width: 4px;
+    height: 27px;
+    top: 160px;
+    left: 295px;
+  }
+  
+  .wynajem .vector-4 {
+    position: absolute;
+    width: 3px;
+    height: 18px;
+    top: 175px;
+    left: 295px;
+  }
+  
+  .wynajem .vector-5 {
+    position: absolute;
+    width: 5px;
+    height: 17px;
+    top: 152px;
+    left: 295px;
+  }
+  
+  .wynajem .vector-6 {
+    position: absolute;
+    width: 3px;
+    height: 19px;
+    top: 166px;
+    left: 297px;
+  }
+  
+  .wynajem .vector-7 {
+    position: absolute;
+    width: 4px;
+    height: 11px;
+    top: 182px;
+    left: 297px;
+  }
+  
+  .wynajem .line-2 {
+    position: absolute;
+    width: 1px;
+    height: 3px;
+    top: 152px;
+    left: 300px;
+    object-fit: cover;
+  }
+  
+  .wynajem .vector-8 {
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    top: 151px;
+    left: 297px;
+  }
+  
+  .wynajem .vector-9 {
+    position: absolute;
+    width: 5px;
+    height: 6px;
+    top: 149px;
+    left: 296px;
+  }
+  
+  .wynajem .vector-10 {
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    top: 153px;
+    left: 299px;
+  }
+  
+  .wynajem .vector-11 {
+    position: absolute;
+    width: 4px;
+    height: 9px;
+    top: 187px;
+    left: 299px;
+  }
+  
+  .wynajem .vector-12 {
+    position: absolute;
+    width: 3px;
+    height: 9px;
+    top: 171px;
+    left: 299px;
+  }
+  
+  .wynajem .vector-13 {
+    position: absolute;
+    width: 3px;
+    height: 9px;
+    top: 177px;
+    left: 299px;
+  }
+  
+  .wynajem .vector-14 {
+    position: absolute;
+    width: 3px;
+    height: 5px;
+    top: 183px;
+    left: 299px;
+  }
+  
+  .wynajem .vector-15 {
+    position: absolute;
+    width: 4px;
+    height: 10px;
+    top: 148px;
+    left: 299px;
+  }
+  
+  .wynajem .vector-16 {
+    position: absolute;
+    width: 3px;
+    height: 9px;
+    top: 153px;
+    left: 299px;
+  }
+  
+  .wynajem .vector-17 {
+    position: absolute;
+    width: 3px;
+    height: 10px;
+    top: 160px;
+    left: 299px;
+  }
+  
+  .wynajem .vector-18 {
+    position: absolute;
+    width: 3px;
+    height: 10px;
+    top: 163px;
+    left: 299px;
+  }
+  
+  .wynajem .line-3 {
+    position: absolute;
+    width: 4px;
+    height: 40px;
+    top: 329px;
+    left: 296px;
+  }
+  
+  .wynajem .content {
+    position: absolute;
+    width: 1608px;
+    height: 976px;
+    top: 111px;
+    left: 312px;
+    background-color: #f6f7f9;
+    overflow: hidden;
+  }
+  
+  .wynajem .overlap-4 {
+    position: absolute;
+    width: 360px;
+    height: 969px;
+    top: 0;
+    left: 0;
+  }
+  
+  .wynajem .nav-bar-side {
+    position: absolute;
+    width: 360px;
+    height: 969px;
+    top: 0;
+    left: 0;
+    background-color: var(--primary-0);
+    border-right-width: 1px;
+    border-right-style: solid;
+    border-color: #f2f4f6;
+  }
+  
+  .wynajem .t-y-p-e {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 28px;
+    position: absolute;
+    top: 32px;
+    left: 32px;
+  }
+  
+  .wynajem .text-wrapper-8 {
+    position: relative;
+    width: 104px;
+    height: 20px;
+    margin-top: -1.00px;
+    font-family: var(--semibold-type-12-font-family);
+    font-weight: var(--semibold-type-12-font-weight);
+    color: var(--secondary-300);
+    font-size: var(--semibold-type-12-font-size);
+    letter-spacing: var(--semibold-type-12-letter-spacing);
+    line-height: var(--semibold-type-12-line-height);
+    font-style: var(--semibold-type-12-font-style);
+  }
+  
+  .wynajem .div-2 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 32px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .wynajem .div-3 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 8px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .wynajem .img-2 {
+    position: relative;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .wynajem .p {
+    position: relative;
+    width: 144px;
+    height: 24px;
+    margin-top: -1.00px;
+    font-family: var(--semibold-type-20-font-family);
+    font-weight: var(--semibold-type-20-font-weight);
+    color: transparent;
+    font-size: var(--semibold-type-20-font-size);
+    text-align: justify;
+    letter-spacing: var(--semibold-type-20-letter-spacing);
+    line-height: var(--semibold-type-20-line-height);
+    white-space: nowrap;
+    font-style: var(--semibold-type-20-font-style);
+  }
+  
+  .wynajem .span {
+    color: #596780;
+    letter-spacing: var(--semibold-type-20-letter-spacing);
+    font-family: var(--semibold-type-20-font-family);
+    font-style: var(--semibold-type-20-font-style);
+    font-weight: var(--semibold-type-20-font-weight);
+    line-height: var(--semibold-type-20-line-height);
+    font-size: var(--semibold-type-20-font-size);
+  }
+  
+  .wynajem .text-wrapper-9 {
+    color: #90a3bf;
+    letter-spacing: var(--semibold-type-20-letter-spacing);
+    font-family: var(--semibold-type-20-font-family);
+    font-style: var(--semibold-type-20-font-style);
+    font-weight: var(--semibold-type-20-font-weight);
+    line-height: var(--semibold-type-20-line-height);
+    font-size: var(--semibold-type-20-font-size);
+  }
+  
+  .wynajem .SUV {
+    position: relative;
+    width: 80px;
+    height: 24px;
+    margin-top: -1.00px;
+    font-family: var(--semibold-type-20-font-family);
+    font-weight: var(--semibold-type-20-font-weight);
+    color: transparent;
+    font-size: var(--semibold-type-20-font-size);
+    text-align: justify;
+    letter-spacing: var(--semibold-type-20-letter-spacing);
+    line-height: var(--semibold-type-20-line-height);
+    white-space: nowrap;
+    font-style: var(--semibold-type-20-font-style);
+  }
+  
+  .wynajem .MPV {
+    position: relative;
+    width: 88px;
+    height: 24px;
+    margin-top: -1.00px;
+    font-family: var(--semibold-type-20-font-family);
+    font-weight: var(--semibold-type-20-font-weight);
+    color: transparent;
+    font-size: var(--semibold-type-20-font-size);
+    text-align: justify;
+    letter-spacing: var(--semibold-type-20-letter-spacing);
+    line-height: var(--semibold-type-20-line-height);
+    white-space: nowrap;
+    font-style: var(--semibold-type-20-font-style);
+  }
+  
+  .wynajem .div-4 {
+    position: relative;
+    width: 112px;
+    height: 24px;
+    margin-top: -1.00px;
+    font-family: var(--semibold-type-20-font-family);
+    font-weight: var(--semibold-type-20-font-weight);
+    color: transparent;
+    font-size: var(--semibold-type-20-font-size);
+    text-align: justify;
+    letter-spacing: var(--semibold-type-20-letter-spacing);
+    line-height: var(--semibold-type-20-line-height);
+    white-space: nowrap;
+    font-style: var(--semibold-type-20-font-style);
+  }
+  
+  .wynajem .p-r-i-c-e {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 28px;
+    position: absolute;
+    top: 603px;
+    left: 32px;
+  }
+  
+  .wynajem .p-r-i-c-e-r-a-n-g-e {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .wynajem .p-r-i-c-e-r-a-n-g-e-2 {
+    position: relative;
+    width: 296px;
+    height: 20px;
+  }
+  
+  .wynajem .overlap-group-4 {
+    position: relative;
+    height: 24px;
+    top: -2px;
+  }
+  
+  .wynajem .line-4 {
+    position: absolute;
+    width: 296px;
+    height: 12px;
+    top: 6px;
+    left: 0;
+    background-color: var(--secondary-300);
+    border-radius: 12px;
+  }
+  
+  .wynajem .line-5 {
+    position: absolute;
+    width: 220px;
+    height: 12px;
+    top: 6px;
+    left: 0;
+    background-color: var(--primary-500);
+    border-radius: 12px;
+  }
+  
+  .wynajem .mark {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 0;
+    left: 208px;
+    background-color: var(--primary-500);
+    border-radius: 12px;
+    border: 4px solid;
+    border-color: var(--primary-0);
+  }
+  
+  .wynajem .text-wrapper-10 {
+    position: relative;
+    width: 296px;
+    height: 24px;
+    font-family: var(--semibold-type-20-font-family);
+    font-weight: var(--semibold-type-20-font-weight);
+    color: var(--secondary-400);
+    font-size: var(--semibold-type-20-font-size);
+    text-align: justify;
+    letter-spacing: var(--semibold-type-20-letter-spacing);
+    line-height: var(--semibold-type-20-line-height);
+    white-space: nowrap;
+    font-style: var(--semibold-type-20-font-style);
+  }
+  
+  .wynajem .c-a-p-a-c-i-t-y {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 28px;
+    position: absolute;
+    top: 440px;
+    left: 32px;
+  }
+  
+  .wynajem .dost-pny {
+    position: relative;
+    width: 163px;
+    height: 24px;
+    margin-top: -1.00px;
+    font-family: var(--semibold-type-20-font-family);
+    font-weight: var(--semibold-type-20-font-weight);
+    color: transparent;
+    font-size: var(--semibold-type-20-font-size);
+    text-align: justify;
+    letter-spacing: var(--semibold-type-20-letter-spacing);
+    line-height: var(--semibold-type-20-line-height);
+    white-space: nowrap;
+    font-style: var(--semibold-type-20-font-style);
+  }
+  
+  .wynajem .niedost-pny {
+    position: relative;
+    width: 191px;
+    height: 24px;
+    margin-top: -1.00px;
+    font-family: var(--semibold-type-20-font-family);
+    font-weight: var(--semibold-type-20-font-weight);
+    color: transparent;
+    font-size: var(--semibold-type-20-font-size);
+    text-align: justify;
+    letter-spacing: var(--semibold-type-20-letter-spacing);
+    line-height: var(--semibold-type-20-line-height);
+    white-space: nowrap;
+    font-style: var(--semibold-type-20-font-style);
+  }
+  
+  .wynajem .show-more {
+    display: inline-flex;
+    align-items: center;
+    gap: 290px;
+    position: absolute;
+    top: 1492px;
+    left: 822px;
+  }
+  
+  .wynajem .show-more-2 {
+    display: flex;
+    width: 156px;
+    height: 44px;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 0px 20px;
+    position: relative;
+    background-color: var(--primary-500);
+    border-radius: 4px;
+  }
+  
+  .wynajem .text-wrapper-11 {
+    position: relative;
+    width: 116px;
+    height: 24px;
+    font-family: var(--semibold-type-16-font-family);
+    font-weight: var(--semibold-type-16-font-weight);
+    color: var(--primary-0);
+    font-size: var(--semibold-type-16-font-size);
+    text-align: center;
+    letter-spacing: var(--semibold-type-16-letter-spacing);
+    line-height: var(--semibold-type-16-line-height);
+    white-space: nowrap;
+    font-style: var(--semibold-type-16-font-style);
+  }
+  
+  .wynajem .text-wrapper-12 {
+    width: 140px;
+    font-weight: var(--medium-type-14-font-weight);
+    text-align: right;
+    position: relative;
+    height: 24px;
+    font-family: var(--medium-type-14-font-family);
+    color: var(--secondary-300);
+    font-size: var(--medium-type-14-font-size);
+    letter-spacing: var(--medium-type-14-letter-spacing);
+    line-height: var(--medium-type-14-line-height);
+    white-space: nowrap;
+    font-style: var(--medium-type-14-font-style);
+  }
+  
+  .wynajem .pick-up {
+    position: absolute;
+    width: 539px;
+    height: 132px;
+    top: 16px;
+    left: 376px;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .wynajem .overlap-5 {
+    position: relative;
+    width: 410px;
+    height: 136px;
+    background-color: var(--primary-0);
+    border-radius: 10px;
+  }
+  
+  .wynajem .pick-up-2 {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    position: absolute;
+    top: 24px;
+    left: 24px;
+  }
+  
+  .wynajem .mark-wrapper {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 4px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #000000;
+    border-radius: 70px;
+  }
+  
+  .wynajem .mark-2 {
+    position: relative;
+    width: 8px;
+    height: 8px;
+    background-color: var(--primary-500);
+    border-radius: 4px;
+  }
+  
+  .wynajem .text-wrapper-13 {
+    position: relative;
+    width: 81px;
+    height: 20px;
+    margin-top: -1.00px;
+    font-family: var(--semibold-type-16-font-family);
+    font-weight: var(--semibold-type-16-font-weight);
+    color: var(--secondary-500);
+    font-size: var(--semibold-type-16-font-size);
+    letter-spacing: var(--semibold-type-16-letter-spacing);
+    line-height: var(--semibold-type-16-line-height);
+    white-space: nowrap;
+    font-style: var(--semibold-type-16-font-style);
+  }
+  
+  .wynajem .pick-up-3 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 24px;
+    position: absolute;
+    top: 60px;
+    left: 24px;
+  }
+  
+  .wynajem .line-6 {
+    position: relative;
+    width: 1px;
+    height: 48px;
+    object-fit: cover;
+  }
+  
+  .wynajem .div-5 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .wynajem .text-wrapper-14 {
+    position: relative;
+    width: 116px;
+    height: 20px;
+    margin-top: -1.00px;
+    font-family: var(--bold-type-16-font-family);
+    font-weight: var(--bold-type-16-font-weight);
+    color: var(--secondary-500);
+    font-size: var(--bold-type-16-font-size);
+    letter-spacing: var(--bold-type-16-letter-spacing);
+    line-height: var(--bold-type-16-line-height);
+    white-space: nowrap;
+    font-style: var(--bold-type-16-font-style);
+  }
+  
+  .wynajem .div-6 {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .wynajem .text-wrapper-15 {
+    position: relative;
+    width: 94px;
+    height: 20px;
+    margin-top: -1.00px;
+    font-family: var(--medium-type-12-font-family);
+    font-weight: var(--medium-type-12-font-weight);
+    color: var(--secondary-300);
+    font-size: var(--medium-type-12-font-size);
+    letter-spacing: var(--medium-type-12-letter-spacing);
+    line-height: var(--medium-type-12-line-height);
+    font-style: var(--medium-type-12-font-style);
+  }
+  
+  .wynajem .vuesax-outline-arrow {
+    position: relative;
+    width: 14px;
+    height: 14px;
+  }
+  
+  .wynajem .overlap-6 {
+    position: absolute;
+    width: 1015px;
+    height: 388px;
+    top: 168px;
+    left: 376px;
+  }
+  
+  .wynajem .catalogue {
+    top: 0;
+    left: 0;
+    display: flex;
+    width: 1015px;
+    align-items: flex-start;
+    gap: 32px;
+    position: absolute;
+  }
+  
+  .wynajem .catalog {
+    position: relative;
+    width: 317px;
+    height: 388px;
+    background-color: var(--primary-0);
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .wynajem .button-rental {
+    display: flex;
+    width: 116px;
+    height: 44px;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 0px 20px;
+    position: absolute;
+    top: 320px;
+    left: 177px;
+    background-color: var(--primary-500);
+    border-radius: 4px;
+  }
+  
+  .wynajem .text-wrapper-16 {
+    position: relative;
+    width: 76px;
+    height: 24px;
+    font-family: var(--semibold-type-16-font-family);
+    font-weight: var(--semibold-type-16-font-weight);
+    color: var(--primary-0);
+    font-size: var(--semibold-type-16-font-size);
+    text-align: center;
+    letter-spacing: var(--semibold-type-16-letter-spacing);
+    line-height: var(--semibold-type-16-line-height);
+    white-space: nowrap;
+    font-style: var(--semibold-type-16-font-style);
+  }
+  
+  .wynajem .car-name {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+    position: absolute;
+    top: 24px;
+    left: 24px;
+  }
+  
+  .wynajem .text-wrapper-17 {
+    position: relative;
+    width: 128px;
+    height: 24px;
+    margin-top: -1.00px;
+    font-family: var(--bold-type-20-font-family);
+    font-weight: var(--bold-type-20-font-weight);
+    color: var(--defaultblack);
+    font-size: var(--bold-type-20-font-size);
+    letter-spacing: var(--bold-type-20-letter-spacing);
+    line-height: var(--bold-type-20-line-height);
+    white-space: nowrap;
+    font-style: var(--bold-type-20-font-style);
+  }
+  
+  .wynajem .text-wrapper-18 {
+    position: relative;
+    width: 128px;
+    height: 20px;
+    font-family: var(--bold-type-14-font-family);
+    font-weight: var(--bold-type-14-font-weight);
+    color: var(--secondary-300);
+    font-size: var(--bold-type-14-font-size);
+    letter-spacing: var(--bold-type-14-letter-spacing);
+    line-height: var(--bold-type-14-line-height);
+    white-space: nowrap;
+    font-style: var(--bold-type-14-font-style);
+  }
+  
+  .wynajem .spesification {
+    gap: 17px;
+    display: inline-flex;
+    align-items: flex-start;
+    position: absolute;
+    top: 260px;
+    left: 24px;
+  }
+  
+  .wynajem .text-wrapper-19 {
+    position: relative;
+    width: 38px;
+    height: 24px;
+    margin-top: -1.00px;
+    font-family: var(--medium-type-14-font-family);
+    font-weight: var(--medium-type-14-font-weight);
+    color: var(--secondary-300);
+    font-size: var(--medium-type-14-font-size);
+    letter-spacing: var(--medium-type-14-letter-spacing);
+    line-height: var(--medium-type-14-line-height);
+    white-space: nowrap;
+    font-style: var(--medium-type-14-font-style);
+  }
+  
+  .wynajem .overlap-group-5 {
+    position: relative;
+    width: 20px;
+    height: 20px;
+    top: 2px;
+    left: 2px;
+    background-image: url(https://c.animaapp.com/OU2VaB8o/img/circle-4-3.svg);
+    background-size: 100% 100%;
+  }
+  
+  .wynajem .circle {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 2px;
+    left: 2px;
+    background-color: var(--primary-0);
+    border-radius: 20px;
+  }
+  
+  .wynajem .circle-2 {
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    top: 4px;
+    left: 4px;
+  }
+  
+  .wynajem .circle-3 {
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    top: 6px;
+    left: 6px;
+    background-color: var(--primary-0);
+    border-radius: 20px;
+  }
+  
+  .wynajem .rectangle-2 {
+    position: absolute;
+    width: 2px;
+    height: 4px;
+    top: 15px;
+    left: 9px;
+    background-color: var(--secondary-300);
+  }
+  
+  .wynajem .rectangle-3 {
+    position: absolute;
+    width: 4px;
+    height: 2px;
+    top: 9px;
+    left: 15px;
+    background-color: var(--secondary-300);
+  }
+  
+  .wynajem .rectangle-4 {
+    position: absolute;
+    width: 4px;
+    height: 2px;
+    top: 9px;
+    left: 1px;
+    background-color: var(--secondary-300);
+  }
+  
+  .wynajem .text-wrapper-20 {
+    position: relative;
+    width: 52px;
+    height: 24px;
+    margin-top: -1.00px;
+    font-family: var(--medium-type-14-font-family);
+    font-weight: var(--medium-type-14-font-weight);
+    color: var(--secondary-300);
+    font-size: var(--medium-type-14-font-size);
+    letter-spacing: var(--medium-type-14-letter-spacing);
+    line-height: var(--medium-type-14-line-height);
+    white-space: nowrap;
+    font-style: var(--medium-type-14-font-style);
+  }
+  
+  .wynajem .capacity {
+    gap: 7px;
+    display: inline-flex;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .wynajem .element-osoby {
+    width: 60px;
+    margin-top: -1.00px;
+    font-weight: 400;
+    position: relative;
+    height: 24px;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    color: #90a3bf;
+    font-size: 14px;
+    letter-spacing: -0.28px;
+    line-height: 21px;
+    white-space: nowrap;
+  }
+  
+  .wynajem .text-wrapper-21 {
+    font-weight: var(--medium-type-14-font-weight);
+    letter-spacing: var(--medium-type-14-letter-spacing);
+    font-family: var(--medium-type-14-font-family);
+    font-style: var(--medium-type-14-font-style);
+    line-height: var(--medium-type-14-line-height);
+    font-size: var(--medium-type-14-font-size);
+  }
+  
+  .wynajem .text-wrapper-22 {
+    font-weight: 500;
+    letter-spacing: -0.04px;
+  }
+  
+  .wynajem .overlap-7 {
+    position: absolute;
+    width: 270px;
+    height: 113px;
+    top: 119px;
+    left: 24px;
+  }
+  
+  .wynajem .car {
+    position: absolute;
+    width: 270px;
+    height: 109px;
+    top: 0;
+    left: 0;
+  }
+  
+  .wynajem .shadow {
+    position: absolute;
+    width: 260px;
+    height: 13px;
+    top: 100px;
+    left: 6px;
+    background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0) 0%,
+      rgba(255, 255, 255, 1) 100%
+    );
+  }
+  
+  .wynajem .img-3 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 24px;
+    left: 269px;
+  }
+  
+  .wynajem .price {
+    display: inline-flex;
+    top: 316px;
+    left: 24px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+    position: absolute;
+  }
+  
+  .wynajem .text-wrapper-23 {
+    width: 138px;
+    position: relative;
+    height: 24px;
+    margin-top: -1.00px;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-weight: 700;
+    color: var(--secondary-500);
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .wynajem .text-wrapper-24 {
+    position: relative;
+    width: 128px;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-weight: 700;
+    color: var(--secondary-300);
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: line-through;
+  }
+  
+  .wynajem .text-wrapper-25 {
+    width: 60px;
+    margin-top: -1.00px;
+    font-weight: var(--medium-type-14-font-weight);
+    position: relative;
+    height: 24px;
+    font-family: var(--medium-type-14-font-family);
+    color: var(--secondary-300);
+    font-size: var(--medium-type-14-font-size);
+    letter-spacing: var(--medium-type-14-letter-spacing);
+    line-height: var(--medium-type-14-line-height);
+    white-space: nowrap;
+    font-style: var(--medium-type-14-font-style);
+  }
+  
+  .wynajem .car-2 {
+    position: absolute;
+    width: 248px;
+    height: 93px;
+    top: 119px;
+    left: 24px;
+  }
+  
+  .wynajem .shadow-2 {
+    position: absolute;
+    width: 266px;
+    height: 3px;
+    top: 229px;
+    left: 24px;
+    background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0) 0%,
+      rgba(255, 255, 255, 1) 100%
+    );
+  }
+  
+  .wynajem .mercedes-benz-s {
+    position: relative;
+    width: 161px;
+    height: 24px;
+    margin-top: -1.00px;
+    font-family: var(--bold-type-20-font-family);
+    font-weight: var(--bold-type-20-font-weight);
+    color: var(--defaultblack);
+    font-size: var(--bold-type-20-font-size);
+    letter-spacing: var(--bold-type-20-letter-spacing);
+    line-height: var(--bold-type-20-line-height);
+    white-space: nowrap;
+    font-style: var(--bold-type-20-font-style);
+  }
+  
+  .wynajem .car-3 {
+    position: absolute;
+    width: 271px;
+    height: 92px;
+    top: 128px;
+    left: 9px;
+  }
+  
+  .wynajem .shadow-3 {
+    position: absolute;
+    width: 266px;
+    height: 4px;
+    top: 228px;
+    left: 24px;
+    background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0) 0%,
+      rgba(255, 255, 255, 1) 100%
+    );
+  }
+  
+  .wynajem .price-2 {
+    display: inline-flex;
+    top: 320px;
+    left: 36px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+    position: absolute;
+  }
+  
+  .wynajem .text-wrapper-26 {
+    width: 136px;
+    position: relative;
+    height: 24px;
+    margin-top: -1.00px;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-weight: 700;
+    color: var(--secondary-500);
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .wynajem .text-wrapper-27 {
+    position: relative;
+    width: 128px;
+    height: 20px;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-weight: 700;
+    color: var(--secondary-300);
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: line-through;
+  }
+  
+  .wynajem .price-3 {
+    display: flex;
+    width: 133px;
+    top: 318px;
+    left: 35px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+    position: absolute;
+  }
+  
+  .wynajem .text-wrapper-28 {
+    position: relative;
+    width: 140px;
+    height: 24px;
+    margin-top: -1.00px;
+    margin-right: -7.00px;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-weight: 700;
+    color: var(--secondary-500);
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .wynajem .catalogue-2 {
+    top: 578px;
+    left: 382px;
+    display: flex;
+    width: 1015px;
+    align-items: flex-start;
+    gap: 32px;
+    position: absolute;
+  }
+  
+  .wynajem .text-wrapper-29 {
+    position: relative;
+    width: 181px;
+    height: 24px;
+    margin-top: -1.00px;
+    font-family: var(--bold-type-20-font-family);
+    font-weight: var(--bold-type-20-font-weight);
+    color: var(--defaultblack);
+    font-size: var(--bold-type-20-font-size);
+    letter-spacing: var(--bold-type-20-letter-spacing);
+    line-height: var(--bold-type-20-line-height);
+    white-space: nowrap;
+    font-style: var(--bold-type-20-font-style);
+  }
+  
+  .wynajem .text-wrapper-30 {
+    width: 145px;
+    position: relative;
+    height: 24px;
+    margin-top: -1.00px;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-weight: 700;
+    color: var(--secondary-500);
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .wynajem .spesification-2 {
+    gap: 11px;
+    display: inline-flex;
+    align-items: flex-start;
+    position: absolute;
+    top: 260px;
+    left: 24px;
+  }
+  
+  .wynajem .text-wrapper-31 {
+    position: relative;
+    width: 47px;
+    height: 24px;
+    margin-top: -1.00px;
+    font-family: var(--medium-type-14-font-family);
+    font-weight: var(--medium-type-14-font-weight);
+    color: var(--secondary-300);
+    font-size: var(--medium-type-14-font-size);
+    letter-spacing: var(--medium-type-14-letter-spacing);
+    line-height: var(--medium-type-14-line-height);
+    white-space: nowrap;
+    font-style: var(--medium-type-14-font-style);
+  }
+  
+  .wynajem .capacity-2 {
+    gap: 5px;
+    display: inline-flex;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .wynajem .shadow-wrapper {
+    position: absolute;
+    width: 317px;
+    height: 151px;
+    top: 91px;
+    left: 0;
+    background-image: url(https://c.animaapp.com/OU2VaB8o/img/car-3@2x.png);
+    background-size: 100% 100%;
+  }
+  
+  .wynajem .shadow-4 {
+    position: relative;
+    width: 264px;
+    height: 31px;
+    top: 110px;
+    left: 26px;
+    background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0) 0%,
+      rgba(255, 255, 255, 1) 100%
+    );
+  }
+  
+  .wynajem .text-wrapper-32 {
+    position: relative;
+    width: 225px;
+    height: 24px;
+    margin-top: -1.00px;
+    font-family: var(--bold-type-20-font-family);
+    font-weight: var(--bold-type-20-font-weight);
+    color: var(--defaultblack);
+    font-size: var(--bold-type-20-font-size);
+    letter-spacing: var(--bold-type-20-letter-spacing);
+    line-height: var(--bold-type-20-line-height);
+    white-space: nowrap;
+    font-style: var(--bold-type-20-font-style);
+  }
+  
+  .wynajem .overlap-8 {
+    position: absolute;
+    width: 314px;
+    height: 140px;
+    top: 92px;
+    left: 0;
+    background-image: url(https://c.animaapp.com/OU2VaB8o/img/car-4@2x.png);
+    background-size: 100% 100%;
+  }
+  
+  .wynajem .shadow-5 {
+    position: relative;
+    width: 264px;
+    height: 18px;
+    top: 122px;
+    left: 26px;
+    background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0) 0%,
+      rgba(255, 255, 255, 1) 100%
+    );
+  }
+  
+  .wynajem .text-wrapper-33 {
+    width: 148px;
+    position: relative;
+    height: 24px;
+    margin-top: -1.00px;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-weight: 700;
+    color: var(--secondary-500);
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .wynajem .text-wrapper-34 {
+    position: relative;
+    width: 209px;
+    height: 24px;
+    margin-top: -1.00px;
+    font-family: var(--bold-type-20-font-family);
+    font-weight: var(--bold-type-20-font-weight);
+    color: var(--defaultblack);
+    font-size: var(--bold-type-20-font-size);
+    letter-spacing: var(--bold-type-20-letter-spacing);
+    line-height: var(--bold-type-20-line-height);
+    white-space: nowrap;
+    font-style: var(--bold-type-20-font-style);
+  }
+  
+  .wynajem .text-wrapper-35 {
+    position: relative;
+    width: 140px;
+    height: 20px;
+    font-family: var(--bold-type-14-font-family);
+    font-weight: var(--bold-type-14-font-weight);
+    color: var(--secondary-300);
+    font-size: var(--bold-type-14-font-size);
+    letter-spacing: var(--bold-type-14-letter-spacing);
+    line-height: var(--bold-type-14-line-height);
+    white-space: nowrap;
+    font-style: var(--bold-type-14-font-style);
+  }
+  
+  .wynajem .text-wrapper-36 {
+    position: relative;
+    width: 40px;
+    height: 24px;
+    margin-top: -1.00px;
+    font-family: var(--medium-type-14-font-family);
+    font-weight: var(--medium-type-14-font-weight);
+    color: var(--secondary-300);
+    font-size: var(--medium-type-14-font-size);
+    letter-spacing: var(--medium-type-14-letter-spacing);
+    line-height: var(--medium-type-14-line-height);
+    white-space: nowrap;
+    font-style: var(--medium-type-14-font-style);
+  }
+  
+  .wynajem .overlap-9 {
+    position: absolute;
+    width: 317px;
+    height: 153px;
+    top: 89px;
+    left: 0;
+    background-image: url(https://c.animaapp.com/OU2VaB8o/img/car-5@2x.png);
+    background-size: 100% 100%;
+  }
+  
+  .wynajem .shadow-6 {
+    position: relative;
+    width: 264px;
+    height: 16px;
+    top: 127px;
+    left: 26px;
+    background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0) 0%,
+      rgba(255, 255, 255, 1) 100%
+    );
+  }
+  
