@@ -1,5 +1,5 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
-@import url("https://fonts.googleapis.com/css?family=Poppins:400,600|Montserrat:700|Plus+Jakarta+Sans:var(--semibold-type-20-font-weight),var(--semibold-type-12-font-weight),var(--bold-type-20-font-weight),var(--bold-type-14-font-weight),var(--bold-type-16-font-weight),var(--medium-type-12-font-weight),var(--medium-type-14-font-weight),700,400,var(--semibold-type-16-font-weight)");
+@import url("https://fonts.googleapis.com/css?family=Plus+Jakarta+Sans:var(--semibold-type-20-font-weight),var(--semibold-type-12-font-weight),var(--bold-type-20-font-weight),var(--medium-type-12-font-weight),var(--bold-type-16-font-weight),var(--bold-type-14-font-weight),700,var(--semibold-type-16-font-weight)|Poppins:400,600|Montserrat:700");
 * {
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
@@ -17,3 +17,4 @@ button:focus-visible {
 a {
   text-decoration: none;
 }
+
